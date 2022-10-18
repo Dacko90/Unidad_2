@@ -9,4 +9,4 @@ location = input()
 print("¿Cual es tu edad?:")
 age = input()
 
-print ("Se llama " + name + " y su apellido es " + lastn + " es originario de " + location + " y tiene " + age + " años.")
+print ("Se llama"+ space + name + space +"y su apellido es"+ space + lastn +space+ "es originario de"+ space + location +space+ "y tiene"+space + age +space+ "años.")
