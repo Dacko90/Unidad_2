@@ -1,4 +1,5 @@
-x=input("Ingresa el numero: ")
+print("Ingresa el numero: ")
+x= input()
 x=int(x)
 y=1
 while y<=x:
