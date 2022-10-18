@@ -1,4 +1,4 @@
-space = ""
+space = " "
 
 print("¿Como te llamas?:")
 name = input()
