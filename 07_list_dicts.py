@@ -5,10 +5,12 @@ Descripción: imprimir lineas de otro documento
 
 '''
 file = open("devices.txt", "r")
+dispositivo =  input("Dime el dispositivo a encontrar: ")
+
 
 for line in file:
     line = line.strip()
-    dispositivo =  input("Dime el dispositivo a encontrar: ")
+    
         
 if dispositivo in line:
     print(line)
