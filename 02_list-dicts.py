@@ -1,3 +1,10 @@
+'''
+Camarillo Velazquez DIego 
+Fecha: 13 OCt 2022
+Descripción: Ejercicio de listas y diccionarios 
+
+'''
+
 # Create a list of the BRICS countries
 country = [ "Brazil","Russia","India","China","South Africa"]
 
